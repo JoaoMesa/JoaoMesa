@@ -1,4 +1,4 @@
-h<h1 align="center">Hi 👋, I'm João Mesa</h1>
+<h1 align="center">Hi 👋, I'm João Mesa</h1>
 <h3 align="center">Computer Science Student at Federal University of São Carlos, at Sorocaba</h3>
 
 - 🌱 I’m currently learning **AI/ML and Databases**
