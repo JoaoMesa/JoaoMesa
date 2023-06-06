@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm João Mesa</h1>
 <h3 align="center">Computer Science Student at Federal University of São Carlos, at Sorocaba</h3>
 
-- 🌱 I’m currently learning **AI/ML and Databases**
+- 🌱 My favorite topics are **Data Science, AI/ML and Databases**
 
 - 👨‍💻 All of my college projects are available at [https://replit.com/@navesmesa](https://replit.com/@navesmesa)
-
-- Outside of CS, I enjoy **sports and learning new languages**
 
 - 📫 How to reach me: **joaomesa@estudante.ufscar.br**
 
