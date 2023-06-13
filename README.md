@@ -7,6 +7,8 @@
 
 - 📫 How to reach me: **joaomesa@estudante.ufscar.br**
 
+<!-- Actually, I'm in a undergraduate research project studying Mathematical Modeling and Operational Research.-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joaomesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaomesa" height="30" width="40" /></a>
