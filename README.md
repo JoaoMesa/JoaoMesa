@@ -1,7 +1,5 @@
 <h3 align="center">Computer Science Student at Federal University of São Carlos, at Sorocaba</h3>
 
-- 👨‍💻 My college projects are available at [https://replit.com/@navesmesa](https://replit.com/@navesmesa)
-
 - 📫 How to reach me: **joaomesa@estudante.ufscar.br**
 
 <h3 align="left">Connect with me:</h3>
