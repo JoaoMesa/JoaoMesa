@@ -1,7 +1,9 @@
 <h3 align="center">Computer Science Student at the Federal University of São Carlos – Sorocaba Campus</h3>
 
 📫 How to reach me: joaomesa@estudante.ufscar.br
+
 💻 Currently learning more about Cybersecurity and Software Development
+
 🎓 Undergraduate Researcher in a project approved and funded by FAPESP
 
 <h3 align="left">Connect with me:</h3>
